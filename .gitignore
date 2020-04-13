@@ -1,0 +1,11 @@
+*.pyc
+settings.txt
+gimac_mockserver/airtimeapisettings.txt
+gimac_mockserver/coreapisettings.txt
+gimac_mockserver/dbpassword.txt
+gimac_mockserver/gunicorn.ussd.conf
+gimac_mockserver/secretkey.txt
+gimac_mockserver/settings.txt
+.idea
+.cache
+
